@@ -12,4 +12,4 @@ To develop a Lotto application utilising ReactJS to take advantage of its useful
 ## Design
 
 ## Tech Stack
-  React
+- React
