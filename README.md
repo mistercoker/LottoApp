@@ -12,4 +12,10 @@ To develop a Lotto application utilising ReactJS to take advantage of its useful
 ## Design
 
 ## Tech Stack
-- React
+- CSS3
+- JavaScript
+- ReactJS
+- NPM
+- Netlify
+- Git
+
